@@ -1,9 +1,7 @@
 package strategy;
 
-import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 import org.junit.platform.commons.logging.LoggerFactory;
-import strategy.V1.Duck;
 import strategy.V1.MallardDuck;
 import strategy.V1.RedheadDuck;
 
